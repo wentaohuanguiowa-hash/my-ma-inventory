@@ -1,7 +1,7 @@
 # my-ma-inventory
 
-Static medical-affairs literature browser.
+框架镜文献预览，按总表 / 文件夹分类。打开仓库根目录的 `index.html`，或访问 GitHub Pages：
 
-`index.html` is the site. `data.json` holds the existing library and is published unchanged. The records come from the user's existing library; this repository does not generate literature content.
+https://wentaohuanguiowa-hash.github.io/my-ma-inventory/
 
-GitHub Pages source for this site is the root of `main`. `.nojekyll` is present so the files are published as a static site.
+页面自包含，无需额外数据文件。`.nojekyll` 为空文件，GitHub Pages 因此不使用 Jekyll 处理本站。
