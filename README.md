@@ -1,6 +1,6 @@
 # my-ma-inventory
 
-框架镜文献预览，按总表 / 文件夹分类。打开仓库根目录的 `index.html`，或访问 GitHub Pages：
+框架镜文献预览，按总表分类（与 Competitor Updates-20261111.xlsx 对齐；SP25 显示为 HOAD）。打开仓库根目录的 `index.html`，或访问 GitHub Pages：
 
 https://wentaohuanguiowa-hash.github.io/my-ma-inventory/
 
